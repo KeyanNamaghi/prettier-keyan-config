@@ -1,0 +1,20 @@
+{
+  "name": "prettier-keyan-config",
+  "version": "1.0.0",
+  "description": "My personal Prettier configuration",
+  "main": "index.json",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KeyanNamaghi/prettier-keyan-config.git"
+  },
+  "keywords": [ "prettier", "airbnb", "config" ],
+  "author": "Keyan Namaghi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KeyanNamaghi/prettier-keyan-config/issues"
+  },
+  "homepage": "https://github.com/KeyanNamaghi/prettier-keyan-config#readme",
+  "peerDependencies": {
+    "prettier": "^3.2.5"
+  }
+}
